@@ -1,4 +1,3 @@
-# codingTankADA
 
 Soluções para a prova do Coding Tank da ADA.
 
